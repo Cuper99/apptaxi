@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "552632438314",
+    "firebase_url": "https://aplicatiemobila-c685c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "aplicatiemobila-c685c",
+    "storage_bucket": "aplicatiemobila-c685c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552632438314:android:b8afdfedc6d84ceda57d53",
+        "android_client_info": {
+          "package_name": "com.exicube.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552632438314-ci68s2n9hapv6jku3t1j43g4sr8gqcgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ5W5Q_2G4oYo5kb3cApZ-qYRKDbXrwhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552632438314-ci68s2n9hapv6jku3t1j43g4sr8gqcgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
